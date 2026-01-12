@@ -1,0 +1,12 @@
+bedrock-agentcore
+bedrock-agentcore-starter-toolkit
+boto3
+botocore
+duckduckgo-search
+langchain
+langchain-aws
+langchain-community
+langgraph
+langsmith
+python-dotenv
+traceloop-sdk
